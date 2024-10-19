@@ -1,4 +1,4 @@
-# HR-Analysis-Using-SQL
+# Data Driven Employee Insights With SQL & Power BI
 
 In this project, I used SQL to perform data cleaning and transformation by employing multiple ALTER, UPDATE, and SET commands to convert raw data into actionable insights. 
 I addressed null values, standardized date formats, and ensured data integrity for analysis. 
